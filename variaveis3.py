@@ -1,5 +1,6 @@
 import sys
 
+print('\n========= Bem vindo a calculadora em Python =========\n')
 
 numero_um = input('digite o numero um: ')
 try:
